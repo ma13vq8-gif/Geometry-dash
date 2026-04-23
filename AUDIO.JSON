@@ -1,1 +1,6 @@
-
+{
+    "bgm": "music/main_theme.mp3",
+    "jump": "effects/jump.wav",
+    "death": "effects/explode.wav",
+    "win": "effects/level_complete.mp3"
+}
